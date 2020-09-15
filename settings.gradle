@@ -1,0 +1,3 @@
+rootProject.name = "Flickr"
+include ':app'
+include ':flickr'
